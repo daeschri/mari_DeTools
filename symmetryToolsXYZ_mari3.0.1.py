@@ -11,6 +11,7 @@
 # In your paint buffer set Reset on Bake to Disabled. Otherwise this will be messy :) 
 
 
+
 # In addition you can just invert the canvas/buffer on any axis without baking by using keyboard shortcuts listed below or via the deTools menu.
 # Apart from the deTools menu there is also a symmetry tools palette included with x,y,and z baking buttons
 # The palette includes x,y,and z symmetry baking buttons with a menu to specify the buffer behavior after a symmetrical bake. It can be set to Auto or Manual Clear
