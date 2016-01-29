@@ -1,4 +1,4 @@
-#symmetryToolsXYZ_mari3.0.1
+#symmetryToolsXYZ_mari3.0.2
 #By David Eschrich
 
 
